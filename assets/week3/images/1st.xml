@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1st.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1stdance0000" x="0" y="0" width="561" height="519" pivotX="66.4" pivotY="325.2"/>
+	<SubTexture name="1stdance0001" x="0" y="0" width="561" height="519"/>
+	<SubTexture name="1stdance0002" x="566" y="0" width="561" height="519"/>
+	<SubTexture name="1stdance0003" x="566" y="0" width="561" height="519"/>
+	<SubTexture name="1stdance0004" x="1132" y="0" width="561" height="519"/>
+	<SubTexture name="1stdance0005" x="1132" y="0" width="561" height="519"/>
+	<SubTexture name="1stdance0006" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0007" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0008" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0009" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0010" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0011" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0012" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0013" x="0" y="524" width="561" height="519"/>
+	<SubTexture name="1stdance0014" x="0" y="524" width="561" height="519"/>
+</TextureAtlas>

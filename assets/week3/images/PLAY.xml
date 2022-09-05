@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PLAY.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="playtimedance0000" x="0" y="0" width="549" height="522" pivotX="82.5" pivotY="291.2"/>
+	<SubTexture name="playtimedance0001" x="554" y="0" width="549" height="522"/>
+	<SubTexture name="playtimedance0002" x="1108" y="0" width="549" height="522"/>
+	<SubTexture name="playtimedance0003" x="0" y="527" width="549" height="522"/>
+	<SubTexture name="playtimedance0004" x="554" y="527" width="549" height="522"/>
+	<SubTexture name="playtimedance0005" x="1108" y="527" width="549" height="522"/>
+</TextureAtlas>

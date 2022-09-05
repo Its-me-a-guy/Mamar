@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baldi.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baldidle0000" x="0" y="0" width="367" height="906" pivotX="-382.9" pivotY="343.2"/>
+	<SubTexture name="baldidle0001" x="0" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0002" x="372" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0003" x="372" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0004" x="744" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0005" x="744" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0006" x="1116" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0007" x="1116" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0008" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0009" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0010" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0011" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0012" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0013" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0014" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0015" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0016" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0017" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0018" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0019" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0020" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0021" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0022" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0023" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0024" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0025" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0026" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0027" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0028" x="1488" y="0" width="367" height="906"/>
+	<SubTexture name="baldidle0029" x="1488" y="0" width="367" height="906"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BALDI.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baldidance0000" x="0" y="0" width="294" height="404" pivotX="-87.6" pivotY="356.9"/>
+	<SubTexture name="baldidance0001" x="0" y="0" width="294" height="404"/>
+	<SubTexture name="baldidance0002" x="299" y="0" width="294" height="404"/>
+	<SubTexture name="baldidance0003" x="299" y="0" width="294" height="404"/>
+	<SubTexture name="baldidance0004" x="598" y="0" width="294" height="404"/>
+	<SubTexture name="baldidance0005" x="598" y="0" width="294" height="404"/>
+	<SubTexture name="baldidance0006" x="0" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0007" x="0" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0008" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0009" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0010" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0011" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0012" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0013" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0014" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0015" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0016" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0017" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0018" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0019" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0020" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0021" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0022" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0023" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0024" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0025" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0026" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0027" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0028" x="299" y="409" width="294" height="404"/>
+	<SubTexture name="baldidance0029" x="299" y="409" width="294" height="404"/>
+</TextureAtlas>

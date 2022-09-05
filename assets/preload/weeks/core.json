@@ -1,0 +1,49 @@
+{
+	"storyName": "EU VOU...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Detention (beastlychip)",
+			"chip",
+			[
+				0,
+				180,
+				255
+			]
+		],
+		[
+			"Detention (beastlymaxx)",
+			"maxx",
+			[
+				240,
+				180,
+				0
+			]
+		],
+		[
+			"Detention (yoisabo)",
+			"yoisabo",
+			[
+				90,
+				20,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "euvoumamar"
+}

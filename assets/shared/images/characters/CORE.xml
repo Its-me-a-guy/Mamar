@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CORE.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CORE CONFIRM0000" x="0" y="0" width="498" height="679" pivotX="18.35" pivotY="73.35"/>
+	<SubTexture name="CORE CONFIRM0001" x="503" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0002" x="1006" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0003" x="1509" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0004" x="2012" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0005" x="2515" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0006" x="3018" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0007" x="3521" y="0" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0008" x="0" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0009" x="503" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0010" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0011" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0012" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0013" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0014" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0015" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0016" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0017" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0018" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0019" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0020" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0021" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0022" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0023" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0024" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0025" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0026" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0027" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0028" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE CONFIRM0029" x="1006" y="684" width="498" height="679"/>
+	<SubTexture name="CORE DEAD0000" x="1509" y="684" width="443" height="582" pivotX="18.35" pivotY="-24.5"/>
+	<SubTexture name="CORE DEAD0001" x="1509" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0002" x="1957" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0003" x="1957" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0004" x="2405" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0005" x="2405" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0006" x="2853" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0007" x="2853" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0008" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0009" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0010" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0011" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0012" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0013" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0014" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0015" x="1509" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0016" x="1509" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0017" x="1957" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0018" x="1957" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0019" x="2405" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0020" x="2405" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0021" x="2853" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0022" x="2853" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0023" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0024" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0025" x="0" y="1368" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0026" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0027" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0028" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DEAD0029" x="3301" y="684" width="443" height="582"/>
+	<SubTexture name="CORE DIES0000" x="448" y="1368" width="489" height="628" pivotX="20.75" pivotY="22"/>
+	<SubTexture name="CORE DIES0001" x="942" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0002" x="1436" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0003" x="1930" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0004" x="2424" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0005" x="2918" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0006" x="2918" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0007" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0008" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0009" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0010" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0011" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0012" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0013" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0014" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0015" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0016" x="3412" y="1368" width="489" height="628"/>
+	<SubTexture name="CORE DIES0017" x="0" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0018" x="494" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0019" x="988" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0020" x="1482" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0021" x="1976" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0022" x="2470" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0023" x="2964" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0024" x="3458" y="2001" width="489" height="628"/>
+	<SubTexture name="CORE DIES0025" x="0" y="2634" width="489" height="628"/>
+	<SubTexture name="CORE DIES0026" x="494" y="2634" width="489" height="628"/>
+	<SubTexture name="CORE DIES0027" x="988" y="2634" width="489" height="628"/>
+	<SubTexture name="CORE DIES0028" x="1482" y="2634" width="489" height="628"/>
+	<SubTexture name="CORE DIES0029" x="1976" y="2634" width="489" height="628"/>
+	<SubTexture name="CORE DOWN0000" x="2470" y="2634" width="454" height="510" pivotX="-32.85" pivotY="-85.75"/>
+	<SubTexture name="CORE DOWN0001" x="2470" y="2634" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0002" x="2929" y="2634" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0003" x="2929" y="2634" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0004" x="3388" y="2634" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0005" x="3388" y="2634" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0006" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0007" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0008" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0009" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0010" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0011" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0012" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0013" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0014" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0015" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0016" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0017" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0018" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0019" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0020" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0021" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0022" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0023" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0024" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0025" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0026" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0027" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0028" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0029" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0030" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0031" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0032" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE DOWN0033" x="0" y="3267" width="454" height="510"/>
+	<SubTexture name="CORE FINAL0000" x="459" y="3267" width="431" height="558" pivotX="8.95" pivotY="-37.5"/>
+	<SubTexture name="CORE FINAL0001" x="459" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0002" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0003" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0004" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0005" x="1331" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0006" x="1331" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0007" x="1331" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0008" x="1767" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0009" x="1767" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0010" x="1767" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0011" x="2203" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0012" x="2203" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0013" x="2203" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0014" x="2639" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0015" x="2639" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0016" x="2639" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0017" x="2639" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0018" x="2639" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0019" x="2639" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0020" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0021" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0022" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0023" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0024" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0025" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0026" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0027" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0028" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0029" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0030" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0031" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0032" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0033" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0034" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0035" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0036" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0037" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0038" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0039" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0040" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0041" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0042" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0043" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0044" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0045" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0046" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0047" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0048" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0049" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0050" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0051" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0052" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0053" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0054" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0055" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0056" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0057" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0058" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0059" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0060" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0061" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0062" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0063" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0064" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0065" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0066" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0067" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0068" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0069" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0070" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0071" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0072" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0073" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0074" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0075" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0076" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0077" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0078" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0079" x="3075" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0080" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0081" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0082" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0083" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0084" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0085" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0086" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0087" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0088" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0089" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0090" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0091" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0092" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0093" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0094" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0095" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0096" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0097" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0098" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0099" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0100" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0101" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0102" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0103" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0104" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0105" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0106" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0107" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0108" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0109" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0110" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0111" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0112" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0113" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0114" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0115" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0116" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0117" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0118" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0119" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0120" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0121" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0122" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0123" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0124" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0125" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0126" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0127" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0128" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0129" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0130" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0131" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0132" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0133" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0134" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0135" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0136" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0137" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0138" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0139" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0140" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0141" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0142" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0143" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0144" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0145" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0146" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0147" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0148" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0149" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0150" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0151" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0152" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0153" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0154" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0155" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0156" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0157" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0158" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0159" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0160" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0161" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0162" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0163" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0164" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0165" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0166" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0167" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0168" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0169" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0170" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0171" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0172" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0173" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0174" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0175" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0176" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0177" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0178" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0179" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0180" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0181" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0182" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0183" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0184" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0185" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0186" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0187" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0188" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0189" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0190" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0191" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0192" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0193" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0194" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0195" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0196" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0197" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0198" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0199" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0200" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0201" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0202" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0203" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0204" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0205" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0206" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0207" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0208" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0209" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0210" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0211" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0212" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0213" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0214" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0215" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0216" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0217" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0218" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0219" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0220" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0221" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0222" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0223" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0224" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0225" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0226" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0227" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0228" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0229" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0230" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0231" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0232" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0233" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0234" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE FINAL0235" x="895" y="3267" width="431" height="558"/>
+	<SubTexture name="CORE IDLE0000" x="3511" y="3267" width="429" height="542" pivotX="1.2" pivotY="-53.2"/>
+	<SubTexture name="CORE IDLE0001" x="0" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0002" x="434" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0003" x="868" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0004" x="1302" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0005" x="1736" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0006" x="2170" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0007" x="2604" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0008" x="3038" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0009" x="3472" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0010" x="3038" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0011" x="3472" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0012" x="3038" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0013" x="3472" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE IDLE0014" x="3038" y="3830" width="429" height="542"/>
+	<SubTexture name="CORE LEFT0000" x="0" y="4377" width="428" height="548" pivotX="16.55" pivotY="-47.4"/>
+	<SubTexture name="CORE LEFT0001" x="0" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0002" x="433" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0003" x="433" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0004" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0005" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0006" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0007" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0008" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0009" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0010" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0011" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0012" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0013" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0014" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0015" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0016" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0017" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0018" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0019" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0020" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0021" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0022" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0023" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0024" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0025" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0026" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0027" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0028" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0029" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0030" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0031" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0032" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE LEFT0033" x="866" y="4377" width="428" height="548"/>
+	<SubTexture name="CORE MISS0000" x="1299" y="4377" width="433" height="541" pivotX="15.75" pivotY="-54.4"/>
+	<SubTexture name="CORE MISS0001" x="1299" y="4377" width="433" height="541"/>
+	<SubTexture name="CORE MISS0002" x="1737" y="4377" width="433" height="541"/>
+	<SubTexture name="CORE MISS0003" x="1737" y="4377" width="433" height="541"/>
+	<SubTexture name="CORE RIGHT0000" x="2175" y="4377" width="457" height="528" pivotX="-0.3" pivotY="-67.35"/>
+	<SubTexture name="CORE RIGHT0001" x="2175" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0002" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0003" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0004" x="3099" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0005" x="3099" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0006" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0007" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0008" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0009" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0010" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0011" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0012" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0013" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0014" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0015" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0016" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0017" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0018" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0019" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0020" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0021" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0022" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0023" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0024" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0025" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0026" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0027" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0028" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0029" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0030" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0031" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0032" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE RIGHT0033" x="3561" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM DOWN0000" x="0" y="4930" width="413" height="510" pivotX="-32.85" pivotY="-85.75"/>
+	<SubTexture name="CORE SCREAM DOWN0001" x="0" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0002" x="418" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0003" x="418" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0004" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0005" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0006" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0007" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0008" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0009" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0010" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0011" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0012" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0013" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0014" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0015" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0016" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0017" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0018" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0019" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0020" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0021" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0022" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0023" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0024" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0025" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0026" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0027" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0028" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0029" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0030" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0031" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0032" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM DOWN0033" x="836" y="4930" width="413" height="510"/>
+	<SubTexture name="CORE SCREAM RIGHT0000" x="2175" y="4377" width="457" height="528" pivotX="-0.3" pivotY="-67.35"/>
+	<SubTexture name="CORE SCREAM RIGHT0001" x="2175" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0002" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0003" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0004" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0005" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0006" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0007" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0008" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0009" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0010" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0011" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0012" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0013" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0014" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0015" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0016" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0017" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0018" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0019" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0020" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0021" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0022" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0023" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0024" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0025" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0026" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0027" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0028" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0029" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0030" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0031" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0032" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM RIGHT0033" x="2637" y="4377" width="457" height="528"/>
+	<SubTexture name="CORE SCREAM UP0000" x="1254" y="4930" width="423" height="581" pivotX="-38.45" pivotY="-14.15"/>
+	<SubTexture name="CORE SCREAM UP0001" x="1254" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0002" x="1682" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0003" x="1682" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0004" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0005" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0006" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0007" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0008" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0009" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0010" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0011" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0012" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0013" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0014" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0015" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0016" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0017" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0018" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0019" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0020" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0021" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0022" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0023" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0024" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0025" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0026" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0027" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0028" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0029" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0030" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0031" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0032" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE SCREAM UP0033" x="2110" y="4930" width="423" height="581"/>
+	<SubTexture name="CORE UP0000" x="2538" y="4930" width="388" height="581" pivotX="-65.75" pivotY="-14.15"/>
+	<SubTexture name="CORE UP0001" x="2538" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0002" x="2931" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0003" x="2931" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0004" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0005" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0006" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0007" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0008" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0009" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0010" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0011" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0012" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0013" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0014" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0015" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0016" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0017" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0018" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0019" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0020" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0021" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0022" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0023" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0024" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0025" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0026" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0027" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0028" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0029" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0030" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0031" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0032" x="3324" y="4930" width="388" height="581"/>
+	<SubTexture name="CORE UP0033" x="3324" y="4930" width="388" height="581"/>
+</TextureAtlas>

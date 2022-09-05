@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CORE IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CORE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CORE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-32
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "CORE SCREAM DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CORE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				35
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "CORE SCREAM UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CORE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-15
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "CORE SCREAM RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "CORE MISS",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "CORE MISS",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "CORE MISS",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "CORE MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				84
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "CORE DIES",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				38
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "CORE DEAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				135
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "CORE CONFIRM",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "final",
+			"indices": [],
+			"name": "CORE FINAL"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CORE",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "core",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		154,
+		230
+	],
+	"camera_position": [
+		0,
+		-110
+	],
+	"sing_duration": 6.39999999999999,
+	"scale": 1
+}
