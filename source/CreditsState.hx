@@ -88,7 +88,7 @@ class CreditsState extends MusicBeatState
 			['Bwend',				'bwend',		'Chromatic Scale do Core Muito Pito\n(usada em todas as músicas pq aparentemente\ntodo mundo prefere essa ao invez da minha ;-;)',																		'https://twitter.com/KBwnedS',		'FFFFFF'], 
 			['Yoisabo',				'yoisabo',		'Artista, Animadora, Programadora, Charter\n(e compositora de Detention (Yoisabo))\n(DUH)',					'https://twitter.com/abo_bora',		'FFFFFF'],
                         ['AAAAA EU VO MAMA (Droid Port)'],
-                        ['idklool', 'nothing', "Mamar.rar droid Port\n(no way), 'https://youtube.com/channel/UCOoeKCV2-Ku_6CNpYQ3TuxA', 'FFFFFF'],
+                        ['idklool', 'nothing', "Mamar.rar droid Port\n(no way)', 'https://youtube.com/channel/UCOoeKCV2-Ku_6CNpYQ3TuxA', 'FFFFFF'],
                         ['Psych Engine Android Port'],
                         ['idklool (or Boyfriend FNF idc)', 'nothing', 'Hi I ported the Psych Engine', 'youtube.com/c/BoyfriendFNF', 'FFFFFF'],
                         ['Dxgamer', 'dxgamer', 'He helped with some things', 'https://youtube.com/c/Dxgamer7405', 'FFFFFF'],
